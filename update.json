@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "0.2.0",
-  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.0-android.8/Asta-Scout-0.2.0-8-arm64-release.apk",
-  "size": 72347887,
-  "sha256": "c2aa31e04b1dfe435d5d1d900200ca81fd549b06f885703bbb3d36f7e6d18e6d",
+  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.0-android.9/Asta-Scout-0.2.0-9-arm64-release.apk",
+  "size": 72347943,
+  "sha256": "c261d0293bc1fee901e7ec98c0f4cf2b180a66cad4c94aeeadf4947e9dac2a34",
   "notes": "Nuova interfaccia mobile con Cerca centrale, ricerche salvate, schede immobiliari e dettaglio a pannelli.",
   "applicationId": "com.astascout.asta_monitor",
   "abi": "arm64-v8a"
