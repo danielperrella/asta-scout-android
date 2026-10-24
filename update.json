@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.0-android.9/Asta-Scout-0.2.0-9-arm64-release.apk",
-  "size": 72347943,
-  "sha256": "c261d0293bc1fee901e7ec98c0f4cf2b180a66cad4c94aeeadf4947e9dac2a34",
-  "notes": "Nuova interfaccia mobile con Cerca centrale, ricerche salvate, schede immobiliari e dettaglio a pannelli.",
+  "versionCode": 10,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.1-android.10/Asta-Scout-0.2.1-10-arm64-release.apk",
+  "size": 72558151,
+  "sha256": "2ddd1b461b6aa94044a78381071d57fac035aefffd3a25129ab7873d2916e9e3",
+  "notes": "Ricerca per area e raggio, filtri leggibili uno per riga, icona Asta Scout e diagnostica degli errori PVP migliorata.",
   "applicationId": "com.astascout.asta_monitor",
   "abi": "arm64-v8a"
 }
