@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.2-android.11/Asta-Scout-0.2.2-11-arm64-release.apk",
-  "size": 72558623,
-  "sha256": "3f3674f8dcf45fdd78c51dd79620143b16cce7a0c7d38fcb2efccd850f12c0ed",
+  "versionCode": 12,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/danielperrella/asta-scout-android/releases/download/v0.2.3-android.12/Asta-Scout-0.2.3-12-arm64-release.apk",
+  "size": 72558599,
+  "sha256": "29d7c83df07129b659f54e290894d5487a4cee059dd567ca69b7659be045888e",
   "notes": "Ricerca per area e raggio, filtri leggibili uno per riga, icona Asta Scout e diagnostica degli errori PVP migliorata.",
   "applicationId": "com.astascout.asta_monitor",
   "abi": "arm64-v8a"
